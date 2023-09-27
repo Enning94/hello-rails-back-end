@@ -53,7 +53,7 @@ A rails backend API application for implementing a connection between a Ruby on 
 <!-- Link to Frontend -->
 
 ### Link to Frontend <a name="Link_to_Frontend"></a>
-[React app](https://www.ruby-lang.org/en/)
+[React app](https://github.com/Enning94/hello-react-front-end)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
